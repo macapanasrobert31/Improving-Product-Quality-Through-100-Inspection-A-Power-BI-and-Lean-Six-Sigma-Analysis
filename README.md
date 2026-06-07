@@ -2,7 +2,7 @@
 
 Improving Product Quality Through 100% Inspection: A Power BI and Lean Six Sigma Analysis
 
-Power BI and Lean Six Sigma DMAIC analysis to reduce customer rejection through 100% inspection.
+A Power BI and Lean Six Sigma DMAIC analysis to reduce customer rejection through 100% inspection.
 
 **II. Executive Summary**
 
@@ -15,7 +15,6 @@ The analysis revealed that the existing Acceptable Quality Level (AQL) sampling 
 Based on the findings, a transition from AQL sampling to 100% inspection is recommended. Under the proposed process, every unit would be inspected prior to shipment, preventing defective products from reaching customers. While this approach may require additional inspection resources, it has the potential to eliminate customer rejection incidents, improve product quality, increase customer satisfaction, and avoid approximately ₱325,404.97 in quarterly rework costs.
 
 This project demonstrates how data analytics, Power BI visualization, and Lean Six Sigma methodologies can be leveraged to identify process weaknesses, support data-driven decision-making, and drive continuous quality improvement.
-
 
 III. Business Problem Statement
 

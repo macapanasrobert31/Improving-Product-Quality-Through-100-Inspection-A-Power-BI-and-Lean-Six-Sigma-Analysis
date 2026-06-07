@@ -1,5 +1,9 @@
 **I. Title**
 
+Improving Product Quality Through 100% Inspection: A Power BI and Lean Six Sigma Analysis
+
+Power BI and Lean Six Sigma DMAIC analysis to reduce customer rejection through 100% inspection.
+
 **II. Executive Summary**
 
 This project analyzes the high customer rejection rate of Powder Detergent ABC 1 Kg packaging caused by missing scoops inside finished products. The issue resulted in a rework rate of 76.43%, significantly exceeding the acceptable target of 10%, and generated approximately ₱325,404.97 in quarterly rework costs.

@@ -1,4 +1,4 @@
-**I. TITLE**
+📊**I. TITLE**
 
 Improving Product Quality Through 100% Inspection: A Power BI and Lean Six Sigma Analysis
 

@@ -36,4 +36,4 @@ This project demonstrates how data analytics, Power BI visualization, and Lean S
 
 **XII. FILES INCLUDED**
 
-**XIII. AUTHOR****
+**XIII. AUTHOR**

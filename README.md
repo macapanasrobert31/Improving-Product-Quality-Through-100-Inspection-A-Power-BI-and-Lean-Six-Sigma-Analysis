@@ -16,13 +16,13 @@ Based on the findings, a transition from AQL sampling to 100% inspection is reco
 
 This project demonstrates how data analytics, Power BI visualization, and Lean Six Sigma methodologies can be leveraged to identify process weaknesses, support data-driven decision-making, and drive continuous quality improvement.
 
-**III. BUSINESS PROBLEM STATEMENT**
+🚨**III. BUSINESS PROBLEM STATEMENT**
 
 The rework rate for Powder Detergent ABC 1 Kg was 76.43%, which exceeded the acceptable level of 10% and resulted in additional quarterly costs of PHP 325,404.97.
 
 DON'T FORGET THE IMAGE OR BAR GRAPH REPRESENTING THE ACTUAL PERCENTAGE AND THE TARGET %
 
-**IV. PROJECT OBJECTIVES**
+🎯**IV. PROJECT OBJECTIVES**
 
 Analyze inspection data to identify the primary causes of customer rejection in Powder Detergent ABC 1 Kg packaging.
 Evaluate the effectiveness of the existing AQL sampling inspection process.
@@ -30,20 +30,20 @@ Use Power BI to visualize defect trends, rejection rates, and quality performanc
 Apply the Lean Six Sigma DMAIC methodology to identify improvement opportunities.
 Recommend a data-driven inspection strategy to reduce defects, minimize rework costs, and improve customer satisfaction.
 
-**V. DATASET INFORMATION**
+📊**V. DATASET INFORMATION**
 
-**VI. DATA CLEANING PROCESS**
+🧹**VI. DATA CLEANING PROCESS**
 
-**VII. DMAIC METHODOLOGY**
+🔍**VII. DMAIC METHODOLOGY**
 
-**VIII. DASHBOARDS AND INSIGHTS**
+📈**VIII. DASHBOARDS AND INSIGHTS**
 
-**IX. RECOMMENDATIONS**
+💡**IX. RECOMMENDATIONS**
 
-**X. BUSINESS IMPACT**
+💰**X. BUSINESS IMPACT**
 
-**XI. TOOLS USED**
+🛠️**XI. TOOLS USED**
 
-**XII. FILES INCLUDED**
+📂**XII. FILES INCLUDED**
 
-**XIII. AUTHOR**
+👤**XIII. AUTHOR**

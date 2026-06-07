@@ -18,6 +18,8 @@ This project demonstrates how data analytics, Power BI visualization, and Lean S
 
 **III. BUSINESS PROBLEM STATEMENT**
 
+The rework rate for Powder Detergent ABC 1 Kg was 76.43%, which exceeded the acceptable level of 10% and resulted in additional quarterly costs of PHP 325,404.97.
+
 **IV. PROJECT OBJECTIVES**
 
 **V. DATASET INFORMATION**

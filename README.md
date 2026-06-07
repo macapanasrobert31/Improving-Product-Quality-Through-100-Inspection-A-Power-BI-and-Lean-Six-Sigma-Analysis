@@ -2,7 +2,7 @@
 
 Improving Product Quality Through 100% Inspection: A Power BI and Lean Six Sigma Analysis
 
-A Power BI and Lean Six Sigma DMAIC analysis to reduce customer rejection through 100% inspection.
+_A Power BI and Lean Six Sigma DMAIC analysis to reduce customer rejection through 100% inspection._
 
 **II. Executive Summary**
 

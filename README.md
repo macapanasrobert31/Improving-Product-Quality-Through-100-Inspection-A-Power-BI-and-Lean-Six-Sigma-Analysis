@@ -4,7 +4,7 @@ Improving Product Quality Through 100% Inspection: A Power BI and Lean Six Sigma
 
 _A Power BI and Lean Six Sigma DMAIC analysis to reduce customer rejection through 100% inspection._
 
-**II. EXECUTIVE SUMMARY**
+📌**II. EXECUTIVE SUMMARY**
 
 This project analyzes the high customer rejection rate of Powder Detergent ABC 1 Kg packaging caused by missing scoops inside finished products. The issue resulted in a rework rate of 76.43%, significantly exceeding the acceptable target of 10%, and generated approximately ₱325,404.97 in quarterly rework costs.
 
@@ -23,6 +23,12 @@ The rework rate for Powder Detergent ABC 1 Kg was 76.43%, which exceeded the acc
 DON'T FORGET THE IMAGE OR BAR GRAPH REPRESENTING THE ACTUAL PERCENTAGE AND THE TARGET %
 
 **IV. PROJECT OBJECTIVES**
+
+Analyze inspection data to identify the primary causes of customer rejection in Powder Detergent ABC 1 Kg packaging.
+Evaluate the effectiveness of the existing AQL sampling inspection process.
+Use Power BI to visualize defect trends, rejection rates, and quality performance metrics.
+Apply the Lean Six Sigma DMAIC methodology to identify improvement opportunities.
+Recommend a data-driven inspection strategy to reduce defects, minimize rework costs, and improve customer satisfaction.
 
 **V. DATASET INFORMATION**
 

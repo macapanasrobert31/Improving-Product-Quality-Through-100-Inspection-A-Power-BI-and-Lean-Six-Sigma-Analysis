@@ -1,25 +1,25 @@
-Title
+I. Title
 
-Executive Summary
+II. Executive Summary
 
-Business Problem Statement
+III. Business Problem Statement
 
-Project Objectives
+IV. Project Objectives
 
-Dataset Information
+V. Dataset Information
 
-Data Cleaning Process
+VI. Data Cleaning Process
 
-DMAIC Methodology
+VII. DMAIC Methodology
 
-Dashboard and Insights
+VIII. Dashboard and Insights
 
-Recommendations
+IX. Recommendations
 
-Business Impact
+X. Business Impact
 
-Tools Used
+XI. Tools Used
 
-Files Included
+XII. Files Included
 
-Author
+XIII. Author

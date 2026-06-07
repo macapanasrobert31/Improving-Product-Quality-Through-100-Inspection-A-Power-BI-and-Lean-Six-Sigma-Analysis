@@ -16,24 +16,24 @@ Based on the findings, a transition from AQL sampling to 100% inspection is reco
 
 This project demonstrates how data analytics, Power BI visualization, and Lean Six Sigma methodologies can be leveraged to identify process weaknesses, support data-driven decision-making, and drive continuous quality improvement.
 
-**III. Business Problem Statement**
+**III. BUSINESS PROBLEM STATEMENT**
 
-**IV. Project Objectives**
+**IV. PROJECT OBJECTIVES**
 
-**V. Dataset Information**
+**V. DATASET INFORMATION**
 
-**VI. Data Cleaning Process**
+**VI. DATA CLEANING PROCESS**
 
-**VII. DMAIC Methodology**
+**VII. DMAIC METHODOLOGY**
 
-**VIII. Dashboard and Insights**
+**VIII. DASHBOARDS AND INSIGHTS**
 
-**IX. Recommendations**
+**IX. RECOMMENDATIONS**
 
-**X. Business Impact**
+**X. BUSINESS IMPACT**
 
-**XI. Tools Used**
+**XI. TOOLS USED**
 
-**XII. Files Included**
+**XII. FILES INCLUDED**
 
-**XIII. Author****
+**XIII. AUTHOR****

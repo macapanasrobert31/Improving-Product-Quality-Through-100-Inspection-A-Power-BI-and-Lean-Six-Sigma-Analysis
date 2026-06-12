@@ -121,6 +121,15 @@ With 100% inspection in place, the process is expected to maximize product quali
 
 💡**IX. RECOMMENDATIONS**
 ------------------------------------------------------------------------------------------------------------------------------------------------------------------
+Based on the findings, I recommend replacing AQL random sampling with 100% inspection for this product category.
+
+While 100% inspection requires additional inspection time and resources, it significantly reduces the risk of customer rejection and prevents costly rework activities.
+
+Under the proposed process, all 8,016 units would be inspected prior to shipment, eliminating defective products from reaching the customer.
+
+This improvement could potentially avoid approximately ₱325,404.97 in rework costs per quarter while improving customer satisfaction and product quality.
+
+------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
 💰**X. BUSINESS IMPACT**
 ------------------------------------------------------------------------------------------------------------------------------------------------------------------

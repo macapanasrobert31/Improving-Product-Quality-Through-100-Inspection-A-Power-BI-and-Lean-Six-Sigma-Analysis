@@ -26,7 +26,7 @@ This project focuses on analyzing and reducing powder detergent rejection using 
 
 [X. Business Impact](#x-business-impact)
 
-[XI. Tools Used](#tools-used)
+[XI. Tools Used](#xi-tools-used)
 
 [XII. Author](#xii-author)
 
@@ -176,7 +176,7 @@ From a financial perspective, the initiative is estimated to generate cost savin
 
 ------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
-🛠️**XI. TOOLS USED**
+🛠️XI. TOOLS USED
 ------------------------------------------------------------------------------------------------------------------------------------------------------------------
 1. Microsoft Power BI - Dashboard creation and process monitoring
    

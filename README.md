@@ -83,8 +83,10 @@ Powder detergent production achieved a total output of 8,016 units, with 6,127 r
 <img width="1165" height="638" alt="Dashboard 1" src="https://github.com/user-attachments/assets/18124473-a45b-49ec-a8a9-46ffb171ef9f" />
 
 
+Random sampling revealed variations in rejected quantities among batches, indicating potential process variation and opportunities for quality improvement.
 
 
+<img width="1162" height="652" alt="Dashboard 2" src="https://github.com/user-attachments/assets/27ac4fd3-0388-4a54-a390-fd74afbe5fd9" />
 
 
 💡**IX. RECOMMENDATIONS**

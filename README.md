@@ -77,6 +77,15 @@ DMAIC is the core problem-solving framework of Lean Six Sigma. It is a structure
 
 📈**VIII. DASHBOARDS AND INSIGHTS**
 ------------------------------------------------------------------------------------------------------------------------------------------------------------------
+Powder detergent production achieved a total output of 8,016 units, with 6,127 rejected units, resulting in a rejection rate of 76.43%. The current rejection level indicates an opportunity to reduce process variation and improve product quality.
+
+
+<img width="1165" height="638" alt="Dashboard 1" src="https://github.com/user-attachments/assets/18124473-a45b-49ec-a8a9-46ffb171ef9f" />
+
+
+
+
+
 
 💡**IX. RECOMMENDATIONS**
 ------------------------------------------------------------------------------------------------------------------------------------------------------------------

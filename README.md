@@ -245,4 +245,4 @@ This combination of Lean Six Sigma methodologies and business intelligence tools
 ------------------------------------------------------------------------------------------------------------------------------------------------------------------
 Robert 
 
-Aspiring Data Analyst with experience in Process Improvement and Lean Six Sigma.
+Industrial Engineering Graduate | Business Process Specialist | Aspiring Data Analyst

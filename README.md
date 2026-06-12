@@ -191,6 +191,7 @@ From a financial perspective, the initiative is estimated to generate cost savin
 - Presenting key performance indicators (KPIs) for management review.
 
 
+
 2. Lean Six Sigma Methodology (DMAIC) - Structured problem-solving methodology
 
    Application in the Project:
@@ -201,12 +202,14 @@ From a financial perspective, the initiative is estimated to generate cost savin
 - Control: Established monitoring mechanisms to sustain process improvements.
 
 
+
 3. Random Sampling - Measure current process performance
 
    Purpose:
 - Measure the current process performance.
 - Identify variations among batch numbers.
 - Establish baseline data for comparison with the proposed process.
+
 
 
 4. 100% Inspection - Proposed improvement to eliminate defects
@@ -217,12 +220,14 @@ From a financial perspective, the initiative is estimated to generate cost savin
 - Reduce quality-related losses and rejection costs.
 
 
+
 5. Microsoft Excel - Data preparation and calculations
 
    Purpose:
 - Organize production and rejection records.
 - Perform calculations and data verification.
 - Serve as the source file for dashboard development.
+
 
 
 6. Statistical Analysis - Performance evaluation and comparison

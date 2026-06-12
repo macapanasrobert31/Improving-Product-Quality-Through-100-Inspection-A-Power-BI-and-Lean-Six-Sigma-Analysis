@@ -66,7 +66,7 @@ Recommend a data-driven inspection strategy to reduce defects, minimize rework c
 
 Define, Measure, Analyze, Improve, and Control (DMAIC)
 
-Is the core problem-solving framework of Lean Six Sigma. It is a structured, data-driven, five-phase methodology used to identify, analyze, and improve existing business processes while sustaining long-term results.
+DMAIC is the core problem-solving framework of Lean Six Sigma. It is a structured, data-driven, five-phase methodology used to identify, analyze, and improve existing business processes while sustaining long-term results.
 
 
 <img width="1007" height="502" alt="DMAIC" src="https://github.com/user-attachments/assets/55064247-7b0a-4f57-88ab-0c5409a542c9" />

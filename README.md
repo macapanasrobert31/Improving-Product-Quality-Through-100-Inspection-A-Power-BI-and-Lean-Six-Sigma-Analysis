@@ -24,7 +24,8 @@ This project demonstrates how data analytics, Power BI visualization, and Lean S
 ------------------------------------------------------------------------------------------------------------------------------------------------------------------
 The rework rate for Powder Detergent ABC 1 Kg was 76.43%, which exceeded the acceptable level of 10% and resulted in additional quarterly costs of PHP 325,404.97.
 
-<img width="586" height="353" alt="Bar Graph SS 2" src="https://github.com/user-attachments/assets/7bfc66ae-9952-4e19-8ca7-e12f1a554cf6" />
+<img width="519" height="346" alt="Bar Graph Final" src="https://github.com/user-attachments/assets/0f6909b5-039e-4b27-a5ad-8ba45d9ba7eb" />
+
 
 
 

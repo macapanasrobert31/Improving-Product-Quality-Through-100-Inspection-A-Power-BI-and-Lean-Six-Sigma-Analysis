@@ -142,11 +142,12 @@ From a financial perspective, the initiative is estimated to generate cost savin
 🛠️**XI. TOOLS USED**
 ------------------------------------------------------------------------------------------------------------------------------------------------------------------
 1. Microsoft Power BI - Dashboard creation and process monitoring
+   
    Application in the Project:
-Monitoring quantity of good and rejected products.
-Visualizing rejection trends by batch number.
-Tracking yield percentage and cost savings.
-Presenting key performance indicators (KPIs) for management review.
+- Monitoring quantity of good and rejected products.
+- Visualizing rejection trends by batch number.
+- Tracking yield percentage and cost savings.
+- Presenting key performance indicators (KPIs) for management review.
 
 👤**XII. AUTHOR**
 ------------------------------------------------------------------------------------------------------------------------------------------------------------------

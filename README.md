@@ -25,7 +25,6 @@ This project focuses on analyzing and reducing powder detergent rejection using 
 [IX. Recommendations](#ix-recommendations)
 
 [X. Business Impact](#x-business-impact)
-
 [XI. Tools Used](#xi-tools-used)
 
 [XII. Author](#xii-author)

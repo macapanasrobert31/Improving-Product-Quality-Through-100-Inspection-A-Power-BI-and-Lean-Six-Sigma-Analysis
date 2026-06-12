@@ -1,4 +1,10 @@
-**TABLE OF CONTENTS**
+📌**OVERVIEW**
+------------------------------------------------------------------------------------------------------------------------------------------------------------------
+
+This project focuses on analyzing and reducing powder detergent rejection using Lean Six Sigma principles and Power BI. The study evaluates the existing random sampling process, identifies opportunities for improvement, and proposes a 100% inspection approach to enhance product quality, increase process yield, and minimize quality-related losses. Interactive dashboards were developed to provide data-driven insights and support continuous improvement initiatives.
+
+------------------------------------------------------------------------------------------------------------------------------------------------------------------
+📖**TABLE OF CONTENTS**
 
 [I. Title](#i-title)
 

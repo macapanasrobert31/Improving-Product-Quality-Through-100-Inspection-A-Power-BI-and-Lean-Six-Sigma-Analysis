@@ -133,9 +133,15 @@ This improvement could potentially avoid approximately ₱325,404.97 in rework c
 
 💰**X. BUSINESS IMPACT**
 ------------------------------------------------------------------------------------------------------------------------------------------------------------------
+The implementation of the proposed 100% inspection process is expected to enhance product quality by eliminating defective powder detergent batches and achieving a projected 100% yield. This improvement minimizes waste, reduces quality-related losses, and strengthens process reliability.
+
+From a financial perspective, the initiative is estimated to generate cost savings of Php 325,404.97 per quarter. In addition, the integration of Power BI dashboards enables real-time monitoring of process performance, supports data-driven decision-making, and promotes continuous improvement aligned with Lean Six Sigma principles.
+
+------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
 🛠️**XI. TOOLS USED**
 ------------------------------------------------------------------------------------------------------------------------------------------------------------------
+
 
 👤**XII. AUTHOR**
 ------------------------------------------------------------------------------------------------------------------------------------------------------------------

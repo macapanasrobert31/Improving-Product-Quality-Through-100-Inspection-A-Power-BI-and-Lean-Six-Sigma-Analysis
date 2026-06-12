@@ -53,7 +53,8 @@ Recommend a data-driven inspection strategy to reduce defects, minimize rework c
 🧹**VI. DATA CLEANING PROCESS**
 ------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
-<img width="1258" height="707" alt="Data Before" src="https://github.com/user-attachments/assets/14f5a524-0f18-45e3-af84-ce47c3de356f" />
+<img width="1254" height="698" alt="Data Before Final" src="https://github.com/user-attachments/assets/0e70f847-6080-4609-9d40-a72e1395126b" />
+
 
 
 <img width="1262" height="611" alt="Data After" src="https://github.com/user-attachments/assets/0f761269-f2ea-4f34-86e2-adff2bd51f29" />

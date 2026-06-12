@@ -94,6 +94,20 @@ Random sampling revealed variations in rejected quantities among batches, indica
 
 
 
+
+
+------------------------------------------------------------------------------------------------------------------------------------------------------------------
+The computed Defects Per Opportunity (DPO) and Defects Per Million Opportunities (DPMO) indicate the current sigma performance of the process. A lower DPMO reflects improved process capability and reduced waste.
+
+
+<img width="1103" height="592" alt="Dashboard 3" src="https://github.com/user-attachments/assets/10687a48-4e3d-4624-9c90-0dd34716d32f" />
+
+
+
+
+
+------------------------------------------------------------------------------------------------------------------------------------------------------------------
+
 💡**IX. RECOMMENDATIONS**
 ------------------------------------------------------------------------------------------------------------------------------------------------------------------
 

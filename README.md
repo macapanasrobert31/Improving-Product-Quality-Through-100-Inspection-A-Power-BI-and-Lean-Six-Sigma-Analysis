@@ -149,5 +149,48 @@ From a financial perspective, the initiative is estimated to generate cost savin
 - Tracking yield percentage and cost savings.
 - Presenting key performance indicators (KPIs) for management review.
 
+2. Lean Six Sigma Methodology (DMAIC) - Structured problem-solving methodology
+
+   Application in the Project:
+- Define: Identified powder detergent rejection as the critical quality issue.
+- Measure: Collected rejection data through random sampling and evaluated the current process performance.
+- Analyze: Assessed defect trends and identified opportunities for improvement.
+- Improve: Proposed the implementation of 100% inspection to eliminate defective products.
+- Control: Established monitoring mechanisms to sustain process improvements.
+
+3. Random Sampling - Measure current process performance
+
+   Purpose:
+- Measure the current process performance.
+- Identify variations among batch numbers.
+- Establish baseline data for comparison with the proposed process.
+
+4. 100% Inspection - Proposed improvement to eliminate defects
+
+Purpose:
+- Prevent defective products from reaching customers.
+- Increase process yield.
+- Reduce quality-related losses and rejection costs.
+
+5. Microsoft Excel - Data preparation and calculations
+
+Purpose:
+- Organize production and rejection records.
+- Perform calculations and data verification.
+- Serve as the source file for dashboard development.
+
+6. Statistical Analysis - Performance evaluation and comparison
+
+Purpose:
+- Quantify process performance.
+- Support data-driven recommendations.
+- Measure the financial impact of process improvements.
+
+This combination of Lean Six Sigma methodologies and business intelligence tools enabled the project to identify process inefficiencies, improve product quality, and achieve an estimated quarterly savings of Php 325,404.97.
+
+------------------------------------------------------------------------------------------------------------------------------------------------------------------
+
 👤**XII. AUTHOR**
 ------------------------------------------------------------------------------------------------------------------------------------------------------------------
+Robert 
+Aspiring Data Analyst with experience in Process Improvement and Lean Six Sigma.

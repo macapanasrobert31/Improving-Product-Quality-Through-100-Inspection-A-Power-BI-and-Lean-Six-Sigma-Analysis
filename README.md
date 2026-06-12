@@ -176,7 +176,7 @@ From a financial perspective, the initiative is estimated to generate cost savin
 
 ------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
-**XI. TOOLS USED FOR THIS PORTFOLIO**
+💻**XI. TOOLS USED FOR THIS PORTFOLIO**
 ------------------------------------------------------------------------------------------------------------------------------------------------------------------
 1. Microsoft Power BI - Dashboard creation and process monitoring
    

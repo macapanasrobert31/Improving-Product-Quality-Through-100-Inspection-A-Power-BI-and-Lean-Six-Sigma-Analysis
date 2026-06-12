@@ -42,6 +42,9 @@ Recommend a data-driven inspection strategy to reduce defects, minimize rework c
 📊**V. DATASET INFORMATION**
 ------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
+<img width="1748" height="607" alt="Data SS" src="https://github.com/user-attachments/assets/67121db0-b082-4867-9161-3bb9d4824fc6" />
+
+
 🧹**VI. DATA CLEANING PROCESS**
 
 🔍**VII. DMAIC METHODOLOGY**

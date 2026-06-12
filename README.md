@@ -107,6 +107,17 @@ The computed Defects Per Opportunity (DPO) and Defects Per Million Opportunities
 
 
 ------------------------------------------------------------------------------------------------------------------------------------------------------------------
+With 100% inspection in place, the process is expected to maximize product quality and reduce losses, resulting in projected savings of Php 325,404.97 per quarter.
+
+
+<img width="1145" height="597" alt="Dashboard 4" src="https://github.com/user-attachments/assets/0f31c87f-9925-440f-abc6-7641a5a18884" />
+
+
+
+
+
+
+------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
 💡**IX. RECOMMENDATIONS**
 ------------------------------------------------------------------------------------------------------------------------------------------------------------------

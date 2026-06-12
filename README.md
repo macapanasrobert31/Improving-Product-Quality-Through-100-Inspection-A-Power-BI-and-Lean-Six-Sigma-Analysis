@@ -4,6 +4,28 @@
 
 [II. Executive Summary](#ii-executive-summary)
 
+[III. Business Problem Statement](#iii-business-problem-statement)
+
+[IV. Project Objectives](#iv-project-objectives)
+
+[V. Dataset Information](#v-dataset-information)
+
+[VI. Data Cleaning Process](#vi-data-cleaning-process)
+
+[VII. DMAIC Methodology](#vii-dmaic-methodology)
+
+[VIII. Dashboards and Insights](#viii-dashboards-and-insights)
+
+[IX. Recommendations](#ix-recommendations)
+
+[X. Business Impact](#x-business-impact)
+
+[XI. Tools Used](#xi-tools-used)
+
+[XII. Author](#xii-author)
+
+------------------------------------------------------------------------------------------------------------------------------------------------------------------
+
 📊**I. TITLE**
 ------------------------------------------------------------------------------------------------------------------------------------------------------------------
 **Improving Product Quality Through 100% Inspection: A Power BI and Lean Six Sigma Analysis**

@@ -68,9 +68,13 @@ The rework rate for Powder Detergent ABC 1 Kg was 76.43%, which exceeded the acc
 🎯**IV. PROJECT OBJECTIVES**
 ------------------------------------------------------------------------------------------------------------------------------------------------------------------
 Analyze inspection data to identify the primary causes of customer rejection in Powder Detergent ABC 1 Kg packaging.
+
 Evaluate the effectiveness of the existing AQL sampling inspection process.
+
 Use Power BI to visualize defect trends, rejection rates, and quality performance metrics.
+
 Apply the Lean Six Sigma DMAIC methodology to identify improvement opportunities.
+
 Recommend a data-driven inspection strategy to reduce defects, minimize rework costs, and improve customer satisfaction.
 
 ------------------------------------------------------------------------------------------------------------------------------------------------------------------

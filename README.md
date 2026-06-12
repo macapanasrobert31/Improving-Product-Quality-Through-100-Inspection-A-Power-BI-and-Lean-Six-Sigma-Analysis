@@ -167,21 +167,21 @@ From a financial perspective, the initiative is estimated to generate cost savin
 
 4. 100% Inspection - Proposed improvement to eliminate defects
 
-Purpose:
+   Purpose:
 - Prevent defective products from reaching customers.
 - Increase process yield.
 - Reduce quality-related losses and rejection costs.
 
 5. Microsoft Excel - Data preparation and calculations
 
-Purpose:
+   Purpose:
 - Organize production and rejection records.
 - Perform calculations and data verification.
 - Serve as the source file for dashboard development.
 
 6. Statistical Analysis - Performance evaluation and comparison
 
-Purpose:
+   Purpose:
 - Quantify process performance.
 - Support data-driven recommendations.
 - Measure the financial impact of process improvements.
@@ -193,4 +193,5 @@ This combination of Lean Six Sigma methodologies and business intelligence tools
 👤**XII. AUTHOR**
 ------------------------------------------------------------------------------------------------------------------------------------------------------------------
 Robert 
+
 Aspiring Data Analyst with experience in Process Improvement and Lean Six Sigma.

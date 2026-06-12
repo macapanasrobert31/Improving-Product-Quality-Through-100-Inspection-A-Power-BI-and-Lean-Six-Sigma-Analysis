@@ -1,6 +1,7 @@
-TABLE OF CONTENTS
+**TABLE OF CONTENTS**
 
 [I. Title](#i-title)
+
 [II. Executive Summary](#ii-executive-summary)
 
 📊**I. TITLE**
